@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VeraMetechko
 - 👀 I’m interested in create websites
-- 🌱 I’m currently learning html,css and JS
+- 🌱 I’m currently learning html, css and JS
 - 📫 How to reach me: vera.metechko@gmail.com
 
 <!---
